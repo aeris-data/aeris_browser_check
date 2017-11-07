@@ -15,7 +15,7 @@ jQuery(document).ready(function($){
 				
 				if(response) {
 					
-					if(response=="success"){
+					if(response.trim()=="success"){
 						$('.advanced-browser-check').hide();
 					}
 					else{

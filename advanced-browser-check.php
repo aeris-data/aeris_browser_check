@@ -6,7 +6,7 @@ Description: Tell IE users to change browser? Or is your site for Chrome only? N
 Author: Mattias Hedman
 Author URI: http://www.darkwhispering.com
 GitHub Plugin URI: aeris-data/aeris_browser_check
-Version: 0.0.1
+Version: 0.0.2
 */
 
 define( 'ABC_VERSION', '4.4.1' );
